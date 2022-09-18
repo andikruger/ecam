@@ -1,0 +1,109 @@
+{
+  "numbers": [
+    {
+      "title": "Landside Supervisor 1",
+      "mobile": "+436648357549",
+      "landline": "4397508"
+    },
+    {
+      "title": "Landside Supervisor 2",
+      "mobile": "+436648357550",
+      "landline": "4397509"
+    },
+    {
+      "title": "AAS Ticketing (Ticketschalter)",
+      "mobile": "+436648357552",
+      "landline": "4397538"
+    },
+    {
+      "title": "Duty Manager",
+      "mobile": "+436648357548",
+      "landline": "4397507"
+    },
+    {
+      "title": "Human Resources (HR)",
+      "mobile": "+436648357541",
+      "landline": "4397501"
+    },
+    {
+      "title": "AAS Kontrolle",
+      "mobile": "+436648357553",
+      "landline": "4397512"
+    },
+    {
+      "title": "OPS/TC",
+      "mobile": "+436648357526",
+      "landline": "4397526"
+    },
+    {
+      "title": "Lost",
+      "mobile": "+431700738265",
+      "landline": "38265"
+    },
+    {
+      "title": "Bus Coordinator",
+      "mobile": "+43170722177",
+      "landline": "22177"
+    },
+    {
+      "title": "WCH Service",
+      "mobile": "+4366467077",
+      "landline": "44500"
+    },
+    {
+      "title": "Agean (A3) Station",
+      "mobile": "+4369910658091",
+      "landline": "N/A"
+    },
+    {
+      "title": " Airfrace/KLM (AF/KL) Station",
+      "mobile": "+436641209590",
+      "landline": "N/A"
+    },
+    {
+      "title": "Egyption Air (MS) Station",
+      "mobile": "+436648355261",
+      "landline": "4397537"
+    },
+    {
+      "title": "Turkish Airlines (TK) Ticketing",
+      "mobile": "+431700732959",
+      "landline": "32959"
+    },
+    {
+      "title": "Fire Brigade",
+      "mobile": "+4317007122",
+      "landline": "122"
+    },
+    {
+      "title": "Police",
+      "mobile": "+4317007133",
+      "landline": "133"
+    },
+    {
+      "title": "Ambulance Service",
+      "mobile": "+4317007144",
+      "landline": "144"
+    },
+    {
+      "title": "Airside Operations Centre",
+      "mobile": "+4317007155",
+      "landline": "155"
+    },
+    {
+      "title": "Security Operations Centre",
+      "mobile": "+431700725666",
+      "landline": "25666"
+    },
+    {
+      "title": "Terminal 1 Operations Centre",
+      "mobile": "+431700711111",
+      "landline": "11111"
+    },
+    {
+      "title": "Terminal 3 Operations Centre",
+      "mobile": "+431700733333",
+      "landline": "33333"
+    }
+  ]
+}
